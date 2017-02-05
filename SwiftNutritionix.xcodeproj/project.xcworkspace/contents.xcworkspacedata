@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:SwiftNutritionix.xcodeproj">
+      location = "self:Foogle.xcodeproj">
    </FileRef>
 </Workspace>

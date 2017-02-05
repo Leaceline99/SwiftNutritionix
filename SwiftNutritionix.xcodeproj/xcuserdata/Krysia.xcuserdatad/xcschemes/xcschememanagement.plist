@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>SwiftNutritionix.xcscheme</key>
+		<key>Foogle.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>8B9F2F181E4706A800043565</key>
+		<key>C1EA779D1E468FC5000CF3DB</key>
 		<dict>
 			<key>primary</key>
 			<true/>
