@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+<<<<<<< Updated upstream
 		C19F6A611E46EDC800D17938 /* ResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C19F6A601E46EDC800D17938 /* ResultsViewController.swift */; };
 		C1EA77A21E468FC5000CF3DB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1EA77A11E468FC5000CF3DB /* AppDelegate.swift */; };
 		C1EA77A41E468FC5000CF3DB /* RootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1EA77A31E468FC5000CF3DB /* RootViewController.swift */; };
@@ -30,6 +31,25 @@
 		C1EA77AF1E468FC5000CF3DB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C1EA77B11E468FC5000CF3DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C1EA77B71E46C5B8000CF3DB /* home-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "home-logo.png"; sourceTree = "<group>"; };
+=======
+		8B9F2F1D1E4706A800043565 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B9F2F1C1E4706A800043565 /* AppDelegate.swift */; };
+		8B9F2F1F1E4706A800043565 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B9F2F1E1E4706A800043565 /* ViewController.swift */; };
+		8B9F2F221E4706A800043565 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B9F2F201E4706A800043565 /* Main.storyboard */; };
+		8B9F2F241E4706A800043565 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B9F2F231E4706A800043565 /* Assets.xcassets */; };
+		8B9F2F271E4706A800043565 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B9F2F251E4706A800043565 /* LaunchScreen.storyboard */; };
+		8B9F2F2F1E47083500043565 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B9F2F2E1E47083500043565 /* TestViewController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		8B9F2F191E4706A800043565 /* SwiftNutritionix.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftNutritionix.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8B9F2F1C1E4706A800043565 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		8B9F2F1E1E4706A800043565 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		8B9F2F211E4706A800043565 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		8B9F2F231E4706A800043565 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		8B9F2F261E4706A800043565 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		8B9F2F281E4706A800043565 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8B9F2F2E1E47083500043565 /* TestViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
+>>>>>>> Stashed changes
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +82,7 @@
 		C1EA77A01E468FC5000CF3DB /* Foogle */ = {
 			isa = PBXGroup;
 			children = (
+<<<<<<< Updated upstream
 				C1EA77A11E468FC5000CF3DB /* AppDelegate.swift */,
 				C1EA77A31E468FC5000CF3DB /* RootViewController.swift */,
 				C19F6A601E46EDC800D17938 /* ResultsViewController.swift */,
@@ -72,6 +93,15 @@
 				C1EA77AC1E468FC5000CF3DB /* Assets.xcassets */,
 				C1EA77AE1E468FC5000CF3DB /* LaunchScreen.storyboard */,
 				C1EA77B11E468FC5000CF3DB /* Info.plist */,
+=======
+				8B9F2F1C1E4706A800043565 /* AppDelegate.swift */,
+				8B9F2F1E1E4706A800043565 /* ViewController.swift */,
+				8B9F2F2E1E47083500043565 /* TestViewController.swift */,
+				8B9F2F201E4706A800043565 /* Main.storyboard */,
+				8B9F2F231E4706A800043565 /* Assets.xcassets */,
+				8B9F2F251E4706A800043565 /* LaunchScreen.storyboard */,
+				8B9F2F281E4706A800043565 /* Info.plist */,
+>>>>>>> Stashed changes
 			);
 			path = Foogle;
 			sourceTree = "<group>";
@@ -106,9 +136,16 @@
 				LastUpgradeCheck = 0730;
 				ORGANIZATIONNAME = Krysia;
 				TargetAttributes = {
+<<<<<<< Updated upstream
 					C1EA779D1E468FC5000CF3DB = {
 						CreatedOnToolsVersion = 7.3.1;
 						DevelopmentTeam = BB5P4UPXBA;
+=======
+					8B9F2F181E4706A800043565 = {
+						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = XGK4T3ED42;
+						ProvisioningStyle = Automatic;
+>>>>>>> Stashed changes
 					};
 				};
 			};
@@ -149,11 +186,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+<<<<<<< Updated upstream
 				C1EA77A41E468FC5000CF3DB /* RootViewController.swift in Sources */,
 				C1EA77A81E468FC5000CF3DB /* ModelController.swift in Sources */,
 				C1EA77A61E468FC5000CF3DB /* DataViewController.swift in Sources */,
 				C19F6A611E46EDC800D17938 /* ResultsViewController.swift in Sources */,
 				C1EA77A21E468FC5000CF3DB /* AppDelegate.swift in Sources */,
+=======
+				8B9F2F1F1E4706A800043565 /* ViewController.swift in Sources */,
+				8B9F2F2F1E47083500043565 /* TestViewController.swift in Sources */,
+				8B9F2F1D1E4706A800043565 /* AppDelegate.swift in Sources */,
+>>>>>>> Stashed changes
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,7 +309,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+<<<<<<< Updated upstream
 				INFOPLIST_FILE = Foogle/Info.plist;
+=======
+				DEVELOPMENT_TEAM = XGK4T3ED42;
+				INFOPLIST_FILE = SwiftNutritionix/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+>>>>>>> Stashed changes
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = losaltoshacks.Foogle;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -277,7 +326,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+<<<<<<< Updated upstream
 				INFOPLIST_FILE = Foogle/Info.plist;
+=======
+				DEVELOPMENT_TEAM = XGK4T3ED42;
+				INFOPLIST_FILE = SwiftNutritionix/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+>>>>>>> Stashed changes
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = losaltoshacks.Foogle;
 				PRODUCT_NAME = "$(TARGET_NAME)";
